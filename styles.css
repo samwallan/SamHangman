@@ -1,0 +1,102 @@
+button {
+    font-size: 35px;
+
+}
+
+body {
+    font-family: Times;
+    vertical-align: top;
+
+}
+
+table {
+    margin-bottom: 35px;
+    width: 70%;
+
+}
+br{
+    background-color: #ffee00;
+}
+#text{
+    background-color: #ffee00;
+
+}
+#wordImput{
+    background-color: #ffee00;
+}
+#letterImput{
+    background-color: #ffee00;
+
+
+}
+div {
+    margin: 10px 0px;
+    font-size: 35px;
+    background-color: #ffee00;
+
+}
+button {
+    font-family: Times;
+    background-color: #ffee00;
+}
+
+tr {
+    font-size: 35px;
+
+
+}
+
+
+
+body {
+
+
+}
+.backg {
+
+    background-image: url(http://images.latintimes.com/sites/latintimes.com/files/styles/pulse_embed/public/2015/09/16/donald-trump-presidential-campaign-photos.jpg);
+    background-size: 50% ;
+
+    background-color: #d1e8ff;
+}
+p {
+
+    font-size: 35px;
+    color: black;
+    background-color: #ffee00;
+
+}
+
+h1 {
+    font-family: "Times";
+    font-size: 50px;
+    width: 70%;
+    mso-ansi-font-weight: 0%;
+
+
+
+
+    background-color: #ffee00;
+}
+.h1 {
+    font-family: "Times";
+    font-size: 22px;
+    width: 70%;
+    mso-ansi-font-weight: 0%;
+
+
+
+
+    background-color: #ffee00;
+}
+
+.red {
+    background-color:red;
+}
+.goodjob {
+    background-image: url(http://www.thewrap.com/wp-content/uploads/2015/07/Donald-Trump.jpg);
+}
+
+.yes {
+    background-image: url(http://static.businessinsider.com/image/54d3998e6bb3f7011c836c98/image.jpg);
+}

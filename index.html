@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+    <script src="schools.js"></script>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+
+<script>
+    $(document).ready(function(){
+        $('html').hide();
+        $('backg').hide();
+        $('html').fadeIn(350)
+        $('backg').fadeIn(350)
+})</script>
+
+<h1>Donald Trump Designed this Hangman Game and that's why it's Great Again</h1>
+<button id="wordButton" onclick = "wordChoose(true); style.display = 'none'" >Start: Show Name Length</button>
+
+<table id="table" width=80% border="1" cellspacing="0"  cellpadding="10">
+
+    <tr id="tr" >
+
+        <td><input  oninput="letterGuess()" type="text"  style="font-size:25px" id="letterImput"><br><p>Enter a Letter to Guess<p/></td>
+
+        <td><input type="text"  style="font-size:25px" id="wordImput"><br>
+            <p><p/>
+            <button  onclick="wordGuess()">Guess Name</button></td>
+
+    </tr>
+    <tr>
+
+        <td><p id="output3"><p>
+
+        </p>
+
+
+            <div  id="output"></div>
+            <div id="output1"></div>
+            <div id="output2"></div></td>
+        <td>
+            <p><p/>
+            <button id="button1" onclick = "history.go(0)" VALUE="Refresh" >Restart Game
+            </button>
+
+
+
+        </td>
+    </tr>
+
+</table>
+
+<script type="text/javascript">
+    function submit()
+    {
+        document.getElementById("wordButton").click();
+
+    }
+</script>
+<body onload="submit()">
+
+</body>
+
+<p>
+
+
+
+
+
+
+
+</html>
