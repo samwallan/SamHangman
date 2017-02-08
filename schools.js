@@ -1,5 +1,5 @@
 
-
+//test
     var wordlist = ["Will Arnett", "Justin Timberlake", "Jon Stewart", "Justin Beiber", "Stephen Colbert", "Christiano Ronaldo", "Beyonce", "Taylor Swift", "Jimmy Fallon", "Sam Wallan", "Jason Bateman", "Jason Sudeikis", "Tom Hanks", "Tom Cruise", "Kanye West", "Kim Kardashian", "Sarah Palin", "Rudy Giuliani", "Ted Cruz", "Mitt Romney", "Marco Rubio", "Jeb Bush", "Billy Bush", "Reince Priebus", "John F Kennedy", "Melania Trump", "Barron Trump", "Ken Bone", "Joe Biden", "Jason Chaffetz", "Eric Trump", "Evan McMullin", "Hillary Clinton", "Donald Trump", "Rand Paul", "Paul Ryan", "Steve Bannon", "Kellyanne Conway", "Mike Pence", "Tim Kaine", "Bill Clinton", "Barack Obama"];
 //var wordlist = ["Donald Trump"]
 //random number generator
