@@ -164,7 +164,9 @@ function lose(){
 
     $('html')
         .addClass('red')
+        .removeClass('backg')
         .delay(400)
         .removeClass('red');
+
 
 }
